@@ -1,0 +1,5 @@
+﻿Pull and Push style used as part of Observable pattern.
+
+Push Style: Update(value)
+
+Pull Style: SpreadSheet or Chat will have the composition relation with datasource to get the updated value. 
